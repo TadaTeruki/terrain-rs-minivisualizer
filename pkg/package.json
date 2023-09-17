@@ -1,0 +1,14 @@
+{
+  "name": "terrain-rs-minivisualizer",
+  "version": "0.1.0",
+  "files": [
+    "terrain_rs_minivisualizer_bg.wasm",
+    "terrain_rs_minivisualizer.js",
+    "terrain_rs_minivisualizer.d.ts"
+  ],
+  "module": "terrain_rs_minivisualizer.js",
+  "types": "terrain_rs_minivisualizer.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
